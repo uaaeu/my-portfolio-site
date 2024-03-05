@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Probably the most effective course to start learning JavaScript",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Learning JavaScript by developing useful and simple applications is very valuable in terms of motivation and awareness.",
+    url: "https://dev.to/uaaeu/probably-the-most-effective-course-to-start-learning-javascript-27nn",
   },
   {
     title: "Web Development for Beginners",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "An aftermovie from the Back to Nature Festival",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "First sample movie from Back to Nature after party in Antalya that captured with DJI Mavic Mini.",
+    url: "https://www.youtube.com/watch?v=4tJ8_j_Aw00",
   },
 ];
 
