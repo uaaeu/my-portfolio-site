@@ -40,11 +40,9 @@
         "editor.tabSize": 2,
         "editor.wordWrap": "on",
         "editor.wordWrapColumn": 80,
-        "eslint.packageManager": "npm",
         "eslint.run": "onSave",
         "eslint.format.enable": true,
         "eslint.lintTask.enable": true,
-        "eslint.autoFixOnSave": true,
         "eslint.validate": [
           "javascript",
           "javascriptreact"
